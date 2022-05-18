@@ -1,4 +1,4 @@
-.attribution { font-size: 11px; text-align: center; color: white; }
+.attribution { font-size: 11px; text-align: center; color: white; margin-top: 1rem; }
     .attribution a { color: hsl(150, 100%, 66%); }
 
     * {
@@ -13,13 +13,14 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        justify-content: center;
+        height: 100vh;
     }
 
     .card-container {
         background-color:hsl(217, 19%, 24%) ;
         width:85vw;
-        height: 50vh;
-        margin-top: 40%;
+        margin-top: 10%;
         margin-bottom: 2rem;
         border-radius: 15px;
         display: flex;
@@ -39,16 +40,15 @@
 
     h1 {
         color: white;
-        width: 80%;
-        height:40%;
         font-size: 24px;
         line-height: 1.5rem;
-        padding-bottom: 2rem;
+        padding:1rem;
         text-align: center;
     }
 
     .divider {
         padding: 2rem;
+        margin-bottom: 3rem;
     }
 
     .dice-container {
