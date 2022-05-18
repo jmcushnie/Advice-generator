@@ -33,3 +33,7 @@ Next i started with JavaScript and wrote a function that fetched the Advice Slip
 
 I learned how to work with a 3rd-Party API and include it in the app.
 
+### Link 
+ 
+ Solution Link: https://voluble-chaja-612a16.netlify.app/
+
